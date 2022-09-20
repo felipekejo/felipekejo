@@ -37,6 +37,8 @@ I'm a Front-end developer born in São Paulo/Brazil but currently living in Adel
 
 ![SQLite icon](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![AWS icon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## ⚡GitHub Stats
 
