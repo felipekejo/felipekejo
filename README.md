@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a Front-end developer born in São Paulo/Brazil but currently living in Adelaide/Australia
+I'm a Software Developer born in São Paulo/Brazil but currently living in Adelaide/Australia
 
 ## 📚 Education
 
@@ -38,6 +38,11 @@ I'm a Front-end developer born in São Paulo/Brazil but currently living in Adel
 ![SQLite icon](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![AWS icon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 
 
 ## ⚡GitHub Stats
