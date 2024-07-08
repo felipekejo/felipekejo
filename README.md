@@ -6,11 +6,13 @@
 
 ## About me
 
-I'm a Software Developer born in São Paulo/Brazil but currently living in Adelaide/Australia
+- Born in São Paulo/Brazil but currently living in Adelaide/Australia. Results-oriented Software Developer with a robust background in JavaScript (TypeScript), PHP, AWS, and CI/CD practices. I have a proven track record in developing and maintaining scalable software systems, specializing in both front-end and back-end development. My expertise extends to cloud solutions and DevOps practices, where I've led critical application migrations to AWS, ensuring efficiency and scalability. I hold a Bachelor's degree in Information Technology and have completed various certifications to stay current in the ever-evolving software development landscape.
+
+I thrive in collaborative environments, troubleshooting and addressing system limitations, and I am committed to delivering high-quality, innovative solutions. My professional experience spans roles in software development, financial analysis, and IT support, giving me a comprehensive understanding of diverse business needs and technical requirements. I am particularly skilled in implementing continuous integration and continuous deployment (CI/CD) pipelines, streamlining the software delivery process to enhance productivity and reliability.
 
 ## 📚 Education
 
-- Studying Bachelor of Software Development at [Federation University](https://federation.edu.au)
+- Bachelor of Software Development at [Federation University](https://federation.edu.au)
 
 
 
